@@ -1,2 +1,2 @@
 # Python_space_game
-School project for python course 
+School project for Python course 
